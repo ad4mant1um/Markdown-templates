@@ -38,7 +38,9 @@ _Combined **text**_
 -----------------------------------------
 
 [//]: # (Images)
-![Image description](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
+![GIMP Image](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
+<br>
+*Image caption*
 
 -----------------------------------------
 
