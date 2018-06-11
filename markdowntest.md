@@ -38,6 +38,7 @@ _Combined **text**_
 -----------------------------------------
 
 [//]: # (Images)
+![Description for GIMP image](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
 
 -----------------------------------------
 
