@@ -38,7 +38,7 @@ _Combined **text**_
 -----------------------------------------
 
 [//]: # (Images)
-![GIMP Image](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
+![My GIMP Image](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
 <br>
 *Image caption*
 
@@ -57,4 +57,12 @@ As someone said:
 -----------------------------------------
 
 [//]: # (Inline code)
-        
+An `<html>` element
+
+An HTML code snippet:
+```HTML
+<html>
+   <head></head>
+   <body></body>
+</html>
+```
