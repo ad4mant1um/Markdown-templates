@@ -54,10 +54,15 @@ As someone said:
 
 > Lorem
 > ipsum
+
 -----------------------------------------
 
 [//]: # (Inline code)
 An `<html>` element
+
+-----------------------------------------
+
+[//]: # (Syntax Highlighting)
 
 An HTML code snippet:
 ```HTML
@@ -66,3 +71,32 @@ An HTML code snippet:
    <body></body>
 </html>
 ```
+
+-----------------------------------------
+
+[//]: # (Task lists)
+
+- [x] Done
+- [ ] TODO
+
+-----------------------------------------
+
+[//]: # (Tables)
+
+First Aspect | Second Aspect
+------------ | -------------
+Alpha | Beta
+Aleph | Beth
+
+-----------------------------------------
+
+[//]: # (Strikethrough)
+
+~~text~~
+
+-----------------------------------------
+
+[//]: # (Emoji)
+
+:globe_with_meridians:
+
