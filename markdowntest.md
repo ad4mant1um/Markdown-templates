@@ -1,6 +1,7 @@
 [//]: # (Markdown syntax)
 # Markdown Syntax
--------------------------------
+
+## Table of contents
 
 [//]: # (Headers)
 # An \<h1\> tag
