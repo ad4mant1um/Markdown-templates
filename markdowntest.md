@@ -2,6 +2,23 @@
 # Markdown Syntax
 
 ## Table of contents
+1. [Headers](#headers)
+1. [Emphasis](#emphasis)
+1. [Lists](#lists)
+1. [Images](#images)
+1. [Links](#links)
+1. [Blockquotes](#blockquotes)
+1. [Syntax highlighting](#highlighting)
+1. [Custom quotation](#quotation)
+1. [Task lists](#tasklists)
+1. [Tables](#tables)
+1. [Strikethrough](#strikethrough)
+1. [Emoji](#emoji)
+
+-----------------------------------------
+
+
+### Headers <a name="headers"></a>
 
 [//]: # (Headers)
 # An \<h1\> tag
@@ -9,6 +26,9 @@
 ###### An \<h6\> tag
 
 -----------------------------------------
+
+
+### Emphasis <a name="emphasis"></a>
 
 [//]: # (Emphasis)
 *Italic text*
@@ -22,6 +42,9 @@ __Bold text too__
 _Combined **text**_
 
 -----------------------------------------
+
+
+### Lists <a name="lists"></a>
 
 [//]: # (Ordered lists)
 * Item one
@@ -38,19 +61,28 @@ _Combined **text**_
 
 -----------------------------------------
 
+
+### Images <a name="images"></a>
 [//]: # (Images)
+
 ![My GIMP Image](https://github.com/ad4mant1um/hello-world/blob/master/image.jpg)
 <br>
 *Image caption*
 
 -----------------------------------------
 
+
+### Links <a name="links"></a>
 [//]: # (Links)
+
 [Wikipedia](https://www.wikipedia.org/)
 
 -----------------------------------------
 
+
+### Blockquotes <a name="blockquotes"></a>
 [//]: # (Blockquotes)
+
 As someone said:
 
 > Lorem
@@ -58,11 +90,16 @@ As someone said:
 
 -----------------------------------------
 
+
+### Inline code <a name="inlinecode"></a>
 [//]: # (Inline code)
+
 An `<html>` element
 
 -----------------------------------------
 
+
+### Syntax highlighting <a name="highlighting"></a>
 [//]: # (Syntax Highlighting)
 
 An HTML code snippet:
@@ -75,6 +112,8 @@ An HTML code snippet:
 
 -----------------------------------------
 
+
+### Custom quotation <a name="quotation"></a>
 [//]: # (Custom quotation)
 
 S. T. Coleridge said this, in *Kubla Khan*:
@@ -89,6 +128,7 @@ Down to a sunless sea.
 
 -----------------------------------------
 
+### Task lists <a name="tasklists"></a>
 [//]: # (Task lists)
 
 - [x] Done
@@ -96,6 +136,7 @@ Down to a sunless sea.
 
 -----------------------------------------
 
+### Tables <a name="tables"></a>
 [//]: # (Tables)
 
 First Aspect | Second Aspect
@@ -105,12 +146,14 @@ Aleph | Beth
 
 -----------------------------------------
 
+### Strikethrough <a name="strikethrough"></a>
 [//]: # (Strikethrough)
 
 ~~text~~
 
 -----------------------------------------
 
+### Emoji <a name="emoji"></a>
 [//]: # (Emoji)
 
 :globe_with_meridians:
