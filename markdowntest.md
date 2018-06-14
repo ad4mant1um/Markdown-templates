@@ -3,27 +3,28 @@
 
 ## Table of contents
 1. [Headers](#headers)
-1. [Emphasis](#emphasis)
+2. [Emphasis](#emphasis)
    1. [Italic](#emphit)
    1. [Bold](#emphbold)
    1. [Combined](#emphcomb)
-1. [Lists](#lists)
+3. [Lists](#lists)
    1. [Unordered lists](#ulists)
    1. [Ordered lists](#olists)
-1. [Images](#images)
-1. [Links](#links)
-1. [Blockquotes](#blockquotes)
-1. [Syntax highlighting](#highlighting)
-1. [Custom quotation](#quotation)
-1. [Task lists](#tasklists)
-1. [Tables](#tables)
-1. [Strikethrough](#strikethrough)
-1. [Emoji](#emoji)
+4. [Images](#images)
+5. [Links](#links)
+6. [Blockquotes](#blockquotes)
+7. [Inline code](#inlinecode)
+8. [Syntax highlighting](#highlighting)
+9. [Custom quotation](#quotation)
+10. [Task lists](#tasklists)
+11. [Tables](#tables)
+12. [Strikethrough](#strikethrough)
+13. [Emoji](#emoji)
 
 -----------------------------------------
 
 
-### Headers <a name="headers"></a>
+### 1. Headers <a name="headers"></a>
 [//]: # (Headers)
 
 ```markdown
@@ -44,7 +45,7 @@
 -----------------------------------------
 
 
-### Emphasis <a name="emphasis"></a>
+### 2. Emphasis <a name="emphasis"></a>
 [//]: # (Emphasis)
 
 #### Italic <a name="emphit"></a>
@@ -74,7 +75,7 @@ _Combined **text**_
 -----------------------------------------
 
 
-### Lists <a name="lists"></a>
+### 3. Lists <a name="lists"></a>
 
 #### Unordered lists <a name="ulists"></a>
 [//]: # (Unordered lists)
@@ -107,7 +108,7 @@ _Combined **text**_
 -----------------------------------------
 
 
-### Images <a name="images"></a>
+### 4. Images <a name="images"></a>
 [//]: # (Images)
 
 ```markdown
@@ -122,7 +123,7 @@ _Combined **text**_
 -----------------------------------------
 
 
-### Links <a name="links"></a>
+### 5. Links <a name="links"></a>
 [//]: # (Links)
 
 ```markdown
@@ -133,7 +134,7 @@ _Combined **text**_
 -----------------------------------------
 
 
-### Blockquotes <a name="blockquotes"></a>
+### 6. Blockquotes <a name="blockquotes"></a>
 [//]: # (Blockquotes)
 
 ```markdown
@@ -150,7 +151,7 @@ As someone said:
 -----------------------------------------
 
 
-### Inline code <a name="inlinecode"></a>
+### 7. Inline code <a name="inlinecode"></a>
 [//]: # (Inline code)
 
 ```markdown
@@ -161,7 +162,7 @@ An `<html>` element
 -----------------------------------------
 
 
-### Syntax highlighting <a name="highlighting"></a>
+### 8. Syntax highlighting <a name="highlighting"></a>
 [//]: # (Syntax Highlighting)
 
 ```markdown
@@ -177,7 +178,7 @@ An HTML code snippet:
 -----------------------------------------
 
 
-### Custom quotation <a name="quotation"></a>
+### 9. Custom quotation <a name="quotation"></a>
 [//]: # (Custom quotation)
 
 ```markdown
@@ -194,7 +195,7 @@ Down to a sunless sea.
 
 -----------------------------------------
 
-### Task lists <a name="tasklists"></a>
+### 10. Task lists <a name="tasklists"></a>
 [//]: # (Task lists)
 
 ```markdown
@@ -206,7 +207,7 @@ Down to a sunless sea.
 
 -----------------------------------------
 
-### Tables <a name="tables"></a>
+### 11. Tables <a name="tables"></a>
 [//]: # (Tables)
 
 ```markdown
@@ -222,7 +223,7 @@ Aleph | Beth
 
 -----------------------------------------
 
-### Strikethrough <a name="strikethrough"></a>
+### 12. Strikethrough <a name="strikethrough"></a>
 [//]: # (Strikethrough)
 
 ```markdown
@@ -232,7 +233,7 @@ Aleph | Beth
 
 -----------------------------------------
 
-### Emoji <a name="emoji"></a>
+### 13. Emoji <a name="emoji"></a>
 [//]: # (Emoji)
 
 ```markdown
